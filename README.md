@@ -1,1 +1,3 @@
-# Merntasks_bsjs
+NAME - Chinmmay 
+CAMPUS - BHOPAL 
+REG. NO. - 21BCE10719
